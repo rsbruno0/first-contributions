@@ -1083,6 +1083,7 @@ The-Yash-is-Joined
 - [mheavey](https://github.com/mheavey2)
 - [deep9x](https://github.com/deep9x)
 - [Yash aka Light](https://github.com/y8done)
+- [Bruno Santos](https://github.com/rsbruno0)
 - [devoceon](https://github.com/emy3)
 - [Bobby Wells](https://github.com/bobbywells52)
 - [Avadhoot Kulkarni] (https://github.com/Avadhoot-Kulkarni)
