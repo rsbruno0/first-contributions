@@ -1400,6 +1400,7 @@ Ben
 - [Shaswat Raj](https://github.com/sh20raj)
 - [rockxxjin](https://github.com/rockxxjin)
 - [LaraAcuna](https://github.com/LaraAcuna)
+- [Bruno Santos](https://github.com/rsbruno0)
 - [Nehsik](https://github.com/Kishen271828)
 - [Magonborn](https://github.com/MagonBorn)
 - [Jide Falaki](https://github.com/jidefal)
